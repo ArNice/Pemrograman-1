@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - duapersegi",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "duapersegi",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mathRandom",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "mathRandom",
+            "args": ""
+        }
+    ]
+}
